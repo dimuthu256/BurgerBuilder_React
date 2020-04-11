@@ -1,2 +1,2 @@
-# BurgerBuilder_React
-Simple Burger Builder Application using React JS
+#BurgurBuilder Sample Application
+React JS Sample Burgur Builder Application with Burgur Builder and Order Functions
