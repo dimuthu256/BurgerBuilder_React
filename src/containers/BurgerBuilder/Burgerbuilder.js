@@ -99,7 +99,7 @@ class BurgerBuilder extends Component{
             ingredients : this.state.ingredients,
             price : this.state.totalPrice.toFixed(2),
             customer : {
-                name : 'dimuthu',
+                name : 'Dimuthu',
                 address : {
                     street : '121/1 Bibila Road',
                     zipCode : '70001',
